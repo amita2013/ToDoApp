@@ -1,5 +1,3 @@
-
-I am still working on it.
 /cc @codepathreview @codepath
 
 # ToDoAndroidApp
