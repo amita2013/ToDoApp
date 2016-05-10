@@ -38,7 +38,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/amita2013/ToDoAndroidApp/blob/master/blogger.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/amita2013/ToDoAndroidApp/blob/master/blogger.gif' title='Video Walkthrough_a' width='' alt='Video Walkthrough' />
+
+
+<img src='https://github.com/amita2013/ToDoAndroidApp/blob/master/video_walkthrough3.gif' title='Video Walkthrough_b' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
